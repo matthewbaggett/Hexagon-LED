@@ -9,3 +9,5 @@ lib/
 .~lock.*
 *.lck
 *.job
+*.v7.brd
+*.v7.sch
