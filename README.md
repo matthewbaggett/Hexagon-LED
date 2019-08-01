@@ -1,7 +1,7 @@
 Hexagon LED
 ===========
 
-##Objective:
+## Objective:
 
 Build a small, inexpensive hexagonal lighting PCB with an inexpensive microcontroller that can communicate using slow-speed software serial
  with the other attached nodes and to an optionally fitted ESP8266 ESP-01 module which will designate itself the "host", 
