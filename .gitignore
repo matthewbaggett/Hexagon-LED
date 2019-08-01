@@ -1,3 +1,7 @@
+.pio
+.pioenvs
+.piolibdeps
+.vscode/
 .idea
 version.h
 build*/
