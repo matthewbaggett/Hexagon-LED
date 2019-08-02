@@ -1,5 +1,4 @@
-Hexagon LED
-===========
+# Hexagon LED
 
 ## Objective:
 
@@ -12,10 +11,10 @@ A serial mesh of communication between each interlinked hexagonal node.
 A REST service running on the ESP sat on the users Wifi allowing for colour information to be pushed from an app or script.
 
 ## Render
-![Render](.assets/render.png)
+![Render](Assets/render.png)
 
 ## Board
-![Board](.assets/pcb.png)
+![Board](Assets/pcb.png)
 
 Not shown: Groundplane fill. Represented by area inside red dashed octagon
 
@@ -24,14 +23,17 @@ Purple outline: Lasercut rear plastic panel to insert into the back of a 3d prin
 Illustration shows shielded 3x2 keyed connectors, not necessarily fitted.
 
 ## Schematic
+
 ### Microcontroller
-![Microcontroller](.assets/sch-microcontroller.png)
-### Microcontroller
-![Addressable LEDs](.assets/sch-led.png)
-### Microcontroller
-![Interconnects](.assets/sch-interconnects.png)
+![Microcontroller](Assets/sch-microcontroller.png)
+
+### LEDs
+![Addressable LEDs](Assets/sch-led.png)
+
+### Interconnects
+![Interconnects](Assets/sch-interconnects.png)
 
 ## License
 This project is licensed under the The TAPR Open Hardware License.
 
-![OSHW logo](.assets/oshw-logo-400-px.png)
+![OSHW logo](Assets/oshw-logo-400-px.png)
